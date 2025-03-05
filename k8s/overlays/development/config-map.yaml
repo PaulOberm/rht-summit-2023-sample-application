@@ -5,7 +5,7 @@ data:
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
       "https://i.imgflip.com/7jmwjs.jpg",
-      "https://i.imgflip.com/7jmwjp.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg"
     ]
 kind: ConfigMap
 metadata:
